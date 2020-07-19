@@ -1,0 +1,32 @@
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication3
+{  
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      
+      string ss="sdfsdf\"\\*sdfsdf*\\\"";
+      int i  = 0;
+      string s = "\t";
+      char c = '\t';
+      char cc = '/';
+      string str = "'";
+      char ccc = '*';
+      char cccc = '"'; 
+      Console.WriteLine("/*dfsdf*////****/**//**Hello, world!\\"); 
+      
+      int ccccc = 100/'*';
+      char f = '\\';
+      char f1 = '\n';
+      char f2 = '\"'; 
+      "".ToString();
+    }
+  }
+}
